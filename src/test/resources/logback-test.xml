@@ -1,0 +1,33 @@
+<configuration debug="true">
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss,SSS} %5p [%t] \(%F:%L\) - %m%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="R"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>./webdriver.log</file>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<fileNamePattern>webdriver.%i.log</fileNamePattern>
+			<minIndex>1</minIndex>
+			<maxIndex>3</maxIndex>
+		</rollingPolicy>
+
+		<triggeringPolicy
+			class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+			<maxFileSize>500KB</maxFileSize>
+		</triggeringPolicy>
+		<encoder>
+			<pattern>%d - %p - %c{0} - %m%n</pattern>
+		</encoder>
+	</appender>
+
+
+	<root level="INFO">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="R" />
+	</root>
+</configuration>
