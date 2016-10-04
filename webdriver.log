@@ -975,3 +975,51 @@
 2016-10-03 22:39:37,666 - INFO - EarnestHomePage - Add all the items as per their quantity
 2016-10-03 22:39:37,666 - INFO - EarnestHomePage - Calulate the State Tax
 2016-10-03 22:39:37,667 - INFO - EarnestHomePage - Calulate the Total
+2016-10-04 00:27:29,897 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testAlaskaOtherStateValidations --------
+2016-10-04 00:27:29,904 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-04 00:27:38,734 - INFO - JungleSocksValidationTest - TestCase: Enter information, select Alaska state (other) and click on checkout.
+2016-10-04 00:27:38,769 - INFO - EarnestHomePage - Enter order information
+2016-10-04 00:27:39,484 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-04 00:27:39,758 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-04 00:27:39,759 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-04 00:27:39,760 - INFO - EarnestHomePage - Calulate the Total
+2016-10-04 00:27:39,853 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testMinnesotaStateValidations --------
+2016-10-04 00:27:39,854 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-04 00:27:40,065 - INFO - JungleSocksValidationTest - TestCase: Enter information, select Minnesota state and click on checkout.
+2016-10-04 00:27:40,081 - INFO - EarnestHomePage - Enter order information
+2016-10-04 00:27:40,952 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-04 00:27:41,190 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-04 00:27:41,191 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-04 00:27:41,191 - INFO - EarnestHomePage - Calulate the Total
+2016-10-04 00:27:41,311 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testEmptyValidations --------
+2016-10-04 00:27:41,312 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-04 00:27:41,578 - INFO - JungleSocksValidationTest - TestCase: Do not enter any information and click on checkout.
+2016-10-04 00:27:41,599 - INFO - EarnestHomePage - Enter order information
+2016-10-04 00:27:42,051 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-04 00:27:42,334 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-04 00:27:42,334 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-04 00:27:42,335 - INFO - EarnestHomePage - Calulate the Total
+2016-10-04 00:27:42,381 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testNoStateValidations --------
+2016-10-04 00:27:42,381 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-04 00:27:42,702 - INFO - JungleSocksValidationTest - TestCase: Enter information but do not select any state and click on checkout.
+2016-10-04 00:27:42,723 - INFO - EarnestHomePage - Enter order information
+2016-10-04 00:27:43,169 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-04 00:27:43,445 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-04 00:27:43,445 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-04 00:27:43,446 - INFO - EarnestHomePage - Calulate the Total
+2016-10-04 00:27:43,484 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testNewYorkStateValidations --------
+2016-10-04 00:27:43,484 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-04 00:27:43,847 - INFO - JungleSocksValidationTest - TestCase: Enter information, select new york state and click on checkout.
+2016-10-04 00:27:43,862 - INFO - EarnestHomePage - Enter order information
+2016-10-04 00:27:44,878 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-04 00:27:45,129 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-04 00:27:45,130 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-04 00:27:45,130 - INFO - EarnestHomePage - Calulate the Total
+2016-10-04 00:27:45,230 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testCaliforniaStateValidations --------
+2016-10-04 00:27:45,230 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-04 00:27:45,450 - INFO - JungleSocksValidationTest - TestCase: Enter information, select california state and click on checkout.
+2016-10-04 00:27:45,467 - INFO - EarnestHomePage - Enter order information
+2016-10-04 00:27:46,033 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-04 00:27:46,257 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-04 00:27:46,257 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-04 00:27:46,258 - INFO - EarnestHomePage - Calulate the Total
