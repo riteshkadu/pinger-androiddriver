@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # earnest-webdriver
 Code Test Assignment
 
@@ -14,3 +15,6 @@ JungleSocksValidationTest.java is a test script and its under 'package code_test
 All the @Test can be run independently, they include logger info, steps and verificatin steps
 
 This projects is maven based and configuration is specified at prom.xml 
+=======
+# pinger-androiddriver
+>>>>>>> 41084d0ec6aeb96ae0c6daf0139e7c19216db2d6
