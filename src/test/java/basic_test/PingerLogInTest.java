@@ -28,18 +28,21 @@ public class PingerLogInTest extends PingerAndroidDriverTest {
     }
     
     @Test
-    public void logInError(){
+    public void logInWrongCredentials(){
     	logger.info("Test Case: An user log in with incorrect credentials with password On");
     	PingerLogInPage logIn = home.clickLogInLink(driver);
     	
-    	logIn = logIn.errorUsernamePassword(driver, LiveUser.QA_ADMIN, false);
+    	logIn = logIn.errorUsernamePassword(driver, LiveUser.QA_USER_WRONG, false);
         assertThat(logIn.errorMessage.getText(), containsString("No match found. Try again."));
-        
-    	logger.info("Test Case: An user log in with incorrect credentials with password Off");
-    	logIn = logIn.errorUsernamePassword(driver, LiveUser.QA_TEST, true);
+    }
+    
+    @Test
+    public void logInNoCredentials(){
+    	logger.info("Test Case: An user log in with no credentials with password Off");
+    	PingerLogInPage logIn = home.clickLogInLink(driver);
+
+    	logIn = logIn.errorUsernamePassword(driver, LiveUser.QA_USER_NO_DATA, true);
         assertThat(logIn.errorMessage.getText(), containsString("Please provide some info."));
-        
-        //NOTE: Here we are only verifying error messages on log in page
     }
     
     @Test

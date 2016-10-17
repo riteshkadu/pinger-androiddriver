@@ -38,26 +38,36 @@ public class PingerLogInPage extends PingerTemplatePage {
         super(driver);
     }
     
-    public HomePage enterUsernamePassword(AndroidDriver driver, LiveUser user) {
-    	logger.info("Enter Username and Password");
-    	InputUtils.clearAndType(credentials.get(0), user.getUsername());
-    	InputUtils.clearAndType(credentials.get(1), user.getPassword());
-    	logInButton.click();
+    public HomePage enterUsernamePassword(AndroidDriver driver, LiveUser user, Boolean value) {
+    	logger.info("Enter valid credential for a user");
+    	
+    	enterCredentials(driver, user, value);
     	
     	//Explicit Wait
         WebDriverWait wait = new WebDriverWait(driver, Timeout.PAGE_LOAD_WAIT.getTimeoutSeconds());
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//android.widget.Button[contains(@resource-id, 'org.pinger.android:id/done_button')]")));
-    	return new HomePage(driver);
+    	return new HomePage(driver); //Return to a new page after success
     }
     
     public PingerLogInPage errorUsernamePassword(AndroidDriver driver, LiveUser user, Boolean value) {
-    	logger.info("Enter Username and Password");
+    	logger.info("Enter incorrect credential for a user");
+    	
+    	enterCredentials(driver, user, value);
+
+    	//Explicit Wait
+        WebDriverWait wait = new WebDriverWait(driver, Timeout.PAGE_LOAD_WAIT.getTimeoutSeconds());
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//android.widget.Button[contains(@resource-id, 'org.pinger.android:id/done_button')]")));
+    	return new PingerLogInPage(driver); //Stays on the same page after error
+    }
+    
+    //These are the common steps for both sucess and error log in tests
+    private void enterCredentials(AndroidDriver driver, LiveUser user, Boolean value) {
+    	logger.info("Enter credential for a user to log in");
     	InputUtils.clearAndType(credentials.get(0), user.getUsername());
     	InputUtils.clearAndType(credentials.get(1), user.getPassword());
     	if(value == true) {
     		showPassword.click();
     	}
     	logInButton.click();
-    	return new PingerLogInPage(driver);
     }
 }

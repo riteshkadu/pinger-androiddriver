@@ -11,8 +11,8 @@ import org.apache.commons.lang3.StringUtils;
 public enum LiveUser {
 
 	//Invalid User
-    QA_ADMIN("QAadmin@pinger.com", "5paxjlvu", "QA Admin", "TestAccount"),
-    QA_TEST("", "5paxjlvu", "QA Admin", "TestAccount");
+    QA_USER_WRONG("QAadmin@pinger.com", "5paxjlvu", "QA Admin", "TestAccount"),
+    QA_USER_NO_DATA("", "5paxjlvu", "FirstAdmin", "TestAccount");
     
     //TODO: Add Valid test users
 
