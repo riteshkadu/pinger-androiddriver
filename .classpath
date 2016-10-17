@@ -27,5 +27,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/ritesh/Appium/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ritesh/Appium/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ritesh/Appium/selenium-api-2.47.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ritesh/Appium/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ritesh/Appium/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="/Users/ritesh/Appium/selenium-2.53.1/selenium-java-2.53.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

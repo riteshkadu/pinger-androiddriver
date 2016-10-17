@@ -1023,3 +1023,279 @@
 2016-10-04 00:27:46,257 - INFO - EarnestHomePage - Add all the items as per their quantity
 2016-10-04 00:27:46,257 - INFO - EarnestHomePage - Calulate the State Tax
 2016-10-04 00:27:46,258 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 13:55:52,576 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testAlaskaOtherStateValidations --------
+2016-10-05 13:55:52,583 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 13:56:00,430 - INFO - JungleSocksValidationTest - TestCase: Enter information, select Alaska state (other) and click on checkout.
+2016-10-05 13:56:00,464 - INFO - EarnestHomePage - Enter order information
+2016-10-05 13:56:01,157 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 13:56:01,416 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 13:56:01,416 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 13:56:01,417 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 13:56:01,500 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testMinnesotaStateValidations --------
+2016-10-05 13:56:01,501 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 13:56:01,711 - INFO - JungleSocksValidationTest - TestCase: Enter information, select Minnesota state and click on checkout.
+2016-10-05 13:56:01,727 - INFO - EarnestHomePage - Enter order information
+2016-10-05 13:56:02,528 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 13:56:02,762 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 13:56:02,763 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 13:56:02,763 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 13:56:02,873 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testEmptyValidations --------
+2016-10-05 13:56:02,873 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 13:56:03,081 - INFO - JungleSocksValidationTest - TestCase: Do not enter any information and click on checkout.
+2016-10-05 13:56:03,097 - INFO - EarnestHomePage - Enter order information
+2016-10-05 13:56:03,478 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 13:56:03,713 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 13:56:03,713 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 13:56:03,713 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 13:56:03,749 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testNoStateValidations --------
+2016-10-05 13:56:03,750 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 13:56:03,958 - INFO - JungleSocksValidationTest - TestCase: Enter information but do not select any state and click on checkout.
+2016-10-05 13:56:03,974 - INFO - EarnestHomePage - Enter order information
+2016-10-05 13:56:04,372 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 13:56:04,594 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 13:56:04,594 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 13:56:04,595 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 13:56:04,625 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testNewYorkStateValidations --------
+2016-10-05 13:56:04,626 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 13:56:04,850 - INFO - JungleSocksValidationTest - TestCase: Enter information, select new york state and click on checkout.
+2016-10-05 13:56:04,868 - INFO - EarnestHomePage - Enter order information
+2016-10-05 13:56:05,734 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 13:56:05,982 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 13:56:05,983 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 13:56:05,983 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 13:56:06,078 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testCaliforniaStateValidations --------
+2016-10-05 13:56:06,078 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 13:56:06,311 - INFO - JungleSocksValidationTest - TestCase: Enter information, select california state and click on checkout.
+2016-10-05 13:56:06,335 - INFO - EarnestHomePage - Enter order information
+2016-10-05 13:56:06,893 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 13:56:07,141 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 13:56:07,142 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 13:56:07,142 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 14:12:19,915 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testAlaskaOtherStateValidations --------
+2016-10-05 14:12:19,928 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 14:12:21,921 - INFO - JungleSocksValidationTest - TestCase: Enter information, select Alaska state (other) and click on checkout.
+2016-10-05 14:12:21,982 - INFO - EarnestHomePage - Enter order information
+2016-10-05 14:12:23,414 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 14:12:24,115 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 14:12:24,116 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 14:12:24,117 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 14:12:24,419 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testMinnesotaStateValidations --------
+2016-10-05 14:12:24,420 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 14:12:25,082 - INFO - JungleSocksValidationTest - TestCase: Enter information, select Minnesota state and click on checkout.
+2016-10-05 14:12:25,190 - INFO - EarnestHomePage - Enter order information
+2016-10-05 14:12:27,588 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 14:12:28,035 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 14:12:28,036 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 14:12:28,037 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 14:12:28,375 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testEmptyValidations --------
+2016-10-05 14:12:28,376 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 14:12:28,746 - INFO - JungleSocksValidationTest - TestCase: Do not enter any information and click on checkout.
+2016-10-05 14:12:28,793 - INFO - EarnestHomePage - Enter order information
+2016-10-05 14:12:29,719 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 14:12:30,073 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 14:12:30,074 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 14:12:30,074 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 14:12:30,172 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testNoStateValidations --------
+2016-10-05 14:12:30,173 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 14:12:30,504 - INFO - JungleSocksValidationTest - TestCase: Enter information but do not select any state and click on checkout.
+2016-10-05 14:12:30,548 - INFO - EarnestHomePage - Enter order information
+2016-10-05 14:12:31,320 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 14:12:31,589 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 14:12:31,589 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 14:12:31,590 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 14:12:31,648 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testNewYorkStateValidations --------
+2016-10-05 14:12:31,651 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 14:12:31,973 - INFO - JungleSocksValidationTest - TestCase: Enter information, select new york state and click on checkout.
+2016-10-05 14:12:31,999 - INFO - EarnestHomePage - Enter order information
+2016-10-05 14:12:34,839 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 14:12:35,327 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 14:12:35,327 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 14:12:35,328 - INFO - EarnestHomePage - Calulate the Total
+2016-10-05 14:12:35,695 - INFO - JungleSocksValidationTest - -------- Starting test: JungleSocksValidationTest#testCaliforniaStateValidations --------
+2016-10-05 14:12:35,696 - INFO - JungleSocksValidationTest - Navigate to earnest test home page
+2016-10-05 14:12:36,256 - INFO - JungleSocksValidationTest - TestCase: Enter information, select california state and click on checkout.
+2016-10-05 14:12:36,346 - INFO - EarnestHomePage - Enter order information
+2016-10-05 14:12:38,241 - INFO - EarnestHomePage - Clicking on checkout button.
+2016-10-05 14:12:38,581 - INFO - EarnestHomePage - Add all the items as per their quantity
+2016-10-05 14:12:38,581 - INFO - EarnestHomePage - Calulate the State Tax
+2016-10-05 14:12:38,582 - INFO - EarnestHomePage - Calulate the Total
+2016-10-07 21:35:51,008 - INFO - GoReadTest - -------- Starting test: GoReadTest#addContact --------
+2016-10-07 21:36:22,951 - INFO - GoReadTest - -------- Starting test: GoReadTest#addContact --------
+2016-10-07 21:44:04,259 - INFO - GoReadTest - -------- Starting test: GoReadTest#addContact --------
+2016-10-09 00:03:00,281 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:08:23,557 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:16:28,818 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:23:34,800 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:24:28,672 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:25:00,859 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:28:01,163 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:32:03,852 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:41:27,371 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:41:44,819 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 00:42:34,970 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:42:52,875 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 00:53:16,160 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:53:36,746 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 00:58:34,906 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 00:58:54,320 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:09:03,108 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:11:01,276 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:11:15,508 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:11:19,251 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:11:24,843 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 01:15:10,774 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:15:36,318 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:16:50,270 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:17:48,550 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:17:53,935 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:17:59,632 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 01:32:33,892 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:32:52,955 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:32:58,106 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:33:03,700 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 01:33:37,561 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 01:33:42,668 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:33:45,258 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:36:18,657 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:36:39,765 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:36:47,228 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:36:51,026 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 01:37:22,094 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 01:37:26,488 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:37:29,607 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:38:49,534 - INFO - GoReadTest - -------- Starting test: GoReadTest#logInLogOut --------
+2016-10-09 01:39:04,416 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:39:09,691 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:39:11,976 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 01:39:42,973 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 01:39:47,123 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 01:39:49,210 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 01:39:51,535 - INFO - GoReadLogIn - Clicking on Yes Log Out Button
+2016-10-09 20:04:23,796 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:04:38,907 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:05:31,486 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:05:41,533 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:06:18,190 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:06:34,128 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:07:26,187 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:08:15,408 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:08:37,199 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:08:51,332 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:09:00,402 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:12:49,255 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:13:07,835 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:13:12,956 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:13:17,584 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:14:04,671 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 20:14:15,411 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:14:17,754 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:14:22,433 - INFO - GoReadLogIn - Clicking on Yes Log Out Button
+2016-10-09 20:17:59,879 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:18:14,056 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:18:19,466 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:18:25,001 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:20:55,978 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:21:16,472 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:21:18,902 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:21:22,711 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:22:16,493 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 20:22:23,275 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:22:27,388 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:22:36,781 - INFO - GoReadLogIn - Clicking on Yes Log Out Button
+2016-10-09 20:23:11,475 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:23:21,515 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:23:59,064 - INFO - GoReadLogInTest - -------- Starting test: GoReadLogInTest#logInLogOut --------
+2016-10-09 20:24:14,790 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:24:18,547 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:24:21,814 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:24:57,361 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 20:25:01,395 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:25:03,231 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:25:06,031 - INFO - GoReadLogIn - Clicking on Yes Log Out Button
+2016-10-09 20:43:43,975 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 20:44:05,959 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:44:08,739 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:44:15,437 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:48:34,268 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 20:48:53,599 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:49:00,440 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:49:04,644 - INFO - GoReadLogIn - Enter Username and Password
+2016-10-09 20:49:40,238 - INFO - HomePage - Clicking on Done sync button
+2016-10-09 20:49:44,535 - INFO - HomePage - Clicking on right toggle icon
+2016-10-09 20:49:47,421 - INFO - GoReadLogIn - Clicking on Log In link
+2016-10-09 20:49:50,175 - INFO - GoReadLogIn - Clicking on Yes Log Out Button
+2016-10-09 20:52:43,653 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 21:24:38,827 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 21:25:12,593 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 21:44:13,029 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 21:44:39,417 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 21:44:47,179 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 21:47:45,253 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 21:48:04,405 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 21:48:15,155 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 21:55:46,888 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 21:56:20,118 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 21:56:22,328 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:01:07,224 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 22:01:45,498 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:01:47,855 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:05:55,894 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInLogOut --------
+2016-10-09 22:06:26,156 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:06:47,392 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:18:04,998 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInErrorFail --------
+2016-10-09 22:18:14,650 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:18:38,481 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:18:44,659 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:20:10,609 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInErrorFail --------
+2016-10-09 22:20:20,337 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:20:23,816 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:21:35,400 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInErrorFail --------
+2016-10-09 22:21:44,963 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:21:47,287 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:21:50,243 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:22:22,613 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:24:09,432 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:24:19,516 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-09 22:24:35,878 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:24:45,214 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:25:06,086 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:25:07,190 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:27:17,042 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:27:37,480 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:27:47,238 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-09 22:27:53,494 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:27:56,579 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:28:27,130 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:28:28,300 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:29:31,004 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:29:48,647 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:29:58,257 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-09 22:30:09,670 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:30:15,650 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:31:56,094 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:32:05,791 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-09 22:32:22,646 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:32:30,081 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:32:50,570 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:32:51,903 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:40:13,993 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:40:24,163 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-09 22:40:36,869 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:40:41,165 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:41:38,412 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-09 22:41:48,385 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-09 22:42:01,632 - INFO - HomePage - Clicking on LogIn link
+2016-10-09 22:42:11,175 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-09 22:42:33,058 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-09 22:42:50,263 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-12 21:16:00,729 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-12 21:19:37,251 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-12 21:20:16,283 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-12 21:20:19,672 - INFO - HomePage - Clicking on LogIn link
+2016-10-12 21:20:55,545 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-12 21:22:03,132 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password Off
+2016-10-12 21:22:05,457 - INFO - PingerLogInPage - Enter Username and Password
+2016-10-12 21:23:25,898 - INFO - PingerLogInTest - -------- Starting test: PingerLogInTest#logInError --------
+2016-10-12 21:23:45,639 - INFO - PingerLogInTest - Test Case: An user log in with incorrect credentials with password On
+2016-10-12 21:23:46,920 - INFO - HomePage - Clicking on LogIn link
+2016-10-12 21:23:50,332 - INFO - PingerLogInPage - Enter Username and Password
